@@ -1,2 +1,2 @@
-# bharatintern_task2
+# bharatintern_task1
 SMS CLASSIFIER
